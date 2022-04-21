@@ -1,0 +1,8 @@
+Amazon Clone
+
+-> what we're going to use to build this project
+
+i) Context API (React)
+ii) React JS for front-end
+iii) Firebase hosting to deploy it live
+iv)  React Router!!!
