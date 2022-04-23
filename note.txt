@@ -6,3 +6,10 @@ i) Context API (React)
 ii) React JS for front-end
 iii) Firebase hosting to deploy it live
 iv)  React Router!!!
+
+
+--------------------------------
+
+React Currency Format
+
+npm i react-currency-format
